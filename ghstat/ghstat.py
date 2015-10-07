@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 """
 test commit
-
 Sets github status of commit-id by given command-line parameters.
 
 Used by CI to report into a pull request.
